@@ -1,1 +1,3 @@
-
+  Flow Graph Engine is pure java script project, which will provide a way for the user to create information process
+flow in a graphic way, and provide a way to extend it to add execution feature by adding processing logic and in/output
+specification. This flow is normally much like a flow of digital filter in diginal signal processing system.
